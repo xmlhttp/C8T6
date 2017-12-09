@@ -1,0 +1,15 @@
+.\output\can.o: ..\HARDWARE\CAN\can.c
+.\output\can.o: ..\HARDWARE\CAN\can.h
+.\output\can.o: ..\SYSTEM\sys\sys.h
+.\output\can.o: ..\Lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\can.o: ..\Lib\CMSIS\CM3\CoreSupport\core_cm3.h
+.\output\can.o: E:\work\soft\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\can.o: ..\Lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\output\can.o: ..\User\stm32f10x_conf.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\output\can.o: ..\Lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\can.o: ..\Lib\STM32F10x_StdPeriph_Driver\inc\misc.h
